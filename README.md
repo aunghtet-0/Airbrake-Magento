@@ -51,6 +51,5 @@ Requirements
 * PHP >= 5.3
 
 [airbrake.io]: https://airbrake.io
-[dashboard]: https://img-fotki.yandex.ru/get/3104/98991937.1f/0_b7fb9_d4bfe99a_orig
 [project-idkey]: https://img-fotki.yandex.ru/get/3907/98991937.1f/0_b558a_c9274e4d_orig
 [configuration]: https://img-fotki.yandex.ru/get/4000/98991937.1f/0_b7fba_3016040c_orig
