@@ -11,8 +11,6 @@ service.
 Whenever your store throws an uncaught exception, the plugin will detect that in
 real-time and send information about the exception to the Airbrake dashboard.
 
-![][dashboard]
-
 Installation
 ------------
 
